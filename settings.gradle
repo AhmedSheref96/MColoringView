@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "MColorinView"
 include ':app'
 include ':mColoringView'
+project(':mColoringView').name = 'coloring-view'
